@@ -1,6 +1,7 @@
 "use client"
 import React, { useState } from "react";
 import Image from "next/image";
+//new import
 
 interface LoadAndZoomImageProps {
   imgSrc: string;
