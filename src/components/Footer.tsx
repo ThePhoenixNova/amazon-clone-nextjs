@@ -31,7 +31,7 @@ const Footer = () => {
   return (
     
     <footer className="bg-slate-800 text-gray-300 text-sm mt-16">
-      <div className="w-full bg-white h-40 border border-gray-400 py-10">
+      <div className="w-full bg-white w-full h-40 border border-gray-400 py-10">
       <div>
         <p className="py-0.5 text-gray-600 flex items-center justify-center">See personalized recommendations</p>
       </div>
@@ -45,7 +45,7 @@ const Footer = () => {
         <a href="#"  className="text-green-700 hover:text-red-700">Stat here.</a>
       </div>
       </div>
-      <div className=" bg-white w-full h-6"></div>
+      <div className="w-full bg-white w-full h-6"></div>
       <div className="bg-slate-600 hover:bg-gray-700 w-full h-12 text-white flex items-center justify-center">
         <a href="#">Back to top</a>
       </div>
