@@ -2,6 +2,8 @@
 import React, { useState } from "react";
 import Image from "next/image";
 //import something here for interactivity
+//new import
+//ssh key
 interface LoadAndZoomImageProps {
   imgSrc: string;
   zoomLevel?: number;
