@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from "react";
 import Image from "next/image";
-
+//import something here for interactivity
 interface LoadAndZoomImageProps {
   imgSrc: string;
   zoomLevel?: number;
